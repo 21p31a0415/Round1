@@ -1,0 +1,37 @@
+*{
+	family-font: monstserrat;
+}
+body{
+	background: lightgrey;
+}
+img{
+	height: 100%;
+	width: 100%;
+}
+.b1{
+	background-color:darkviolet;
+	color: white;
+	border-radius: 3px solid darkviolet;
+}
+.b2{
+	background-color:white;
+	color: darkviolet;
+	border-radius: 3px solid darkviolet;
+}
+.i1{
+	height: 90%;
+	width: 100%;
+}
+i{
+	font-size: 50px;
+}
+.i2{
+	height: 100%;
+	width: 100%;
+}
+.s1{
+	margin-left: 120px;
+}
+.tt1{
+	font-size: 20px;
+}
